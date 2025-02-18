@@ -1,2 +1,2 @@
-<ohp>
-!
+<php>
+echo "maggi will prepare "!
